@@ -26,7 +26,7 @@ fun HomeScreen() {
            verticalArrangement = Arrangement.Center,
            horizontalAlignment = Alignment.CenterHorizontally
        ) {
-           Image(imageVector = Icons.Filled.Home, contentDescription = "",
+           Image(imageVector = Icons.Filled.Home, contentDescription = "Home",
                colorFilter = ColorFilter.tint(
                    Color.Green
                ),
